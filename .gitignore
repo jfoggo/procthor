@@ -1,3 +1,6 @@
+*.out
+*.err
+
 .vscode/
 orthographic/
 group-thumbnails/
