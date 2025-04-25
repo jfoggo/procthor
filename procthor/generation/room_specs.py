@@ -518,3 +518,13 @@ PROCTHOR10K_ROOM_SPEC_SAMPLER = RoomSpecSampler(
         ),
     ]
 )
+
+PROCTHOR_HOSPITAL_ROOM_SPEC_SAMPLER = RoomSpecSampler(
+    [
+        RoomSpec(
+            room_spec_id="bedroom",
+            sampling_weight=1,
+            spec=[LeafRoom(room_id=2, ratio=1, room_type="Bedroom")],
+        )
+    ]
+)
