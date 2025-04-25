@@ -1,3 +1,4 @@
+ai2thor==5.0.0
 anyio==4.9.0
 appnope==0.1.4
 argon2-cffi==23.1.0
@@ -85,6 +86,7 @@ parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.3.7
 prior==1.0.3
+procthor==0.0.1.dev2
 proglog==0.1.10
 progressbar2==4.5.0
 prometheus_client==0.21.1
